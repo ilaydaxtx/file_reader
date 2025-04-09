@@ -1,0 +1,30 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# IDE/Editor dosyaları
+.vscode/
+.idea/
+
+# SQLite database files
+*.db
+
+# Orta klasörler ve geçici dosyalar
+*.log
+*.bak
+*.swp
+
+# Kişisel dosyalar
+*.env
+*.env.*
+*.DS_Store
+
+# PyInstaller output directory
+dist/
+build/
+
+# Virtual environment
+venv/
+env/
+.venv/
